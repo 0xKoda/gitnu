@@ -1,0 +1,13 @@
+/target
+.gitnu/
+domains/
+.claude
+COMPLETION.md
+LANDING_PAGE_PROMPTS.md
+landing.md
+prompt+prd.md
+landing.html
+docs.html
+*.html
+VERIFICATION.md
+.DS_Store
