@@ -1,6 +1,6 @@
 # gitnu - Version-Controlled Knowledge Operating System for AI Agents
 
-`gitnu` (binary: `gnu`) is a Rust CLI tool that provides git-like version control for **knowledge and context**, not code. It's designed to work alongside markdown-based note-taking applications (like Obsidian) and AI coding agents (like Claude Code), enabling persistent memory across AI sessions.
+`gitnu` (binary: `gnu`) is a Rust CLI tool that provides git-like version control for **knowledge and context**, not code. It's designed to work alongside AI coding agents (like Claude Code), enabling persistent memory across AI sessions. 
 
 ## Features
 
