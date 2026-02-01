@@ -11,3 +11,9 @@ docs.html
 *.html
 VERIFICATION.md
 .DS_Store
+rc
+/remotion-intro
+IMPLEMENTATION_SUMMARY.md
+IMPLEMENTATION.md
+test-init.sh
+IMPLEMENTATION.md
